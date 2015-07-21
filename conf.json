@@ -1,0 +1,14 @@
+{
+    "show_video": true,
+    "use_dropbox": true,
+    "dropbox_key": "ojlag4nyltutlcn",
+    "dropbox_secret": "nm120r4zy1pto8r",
+    "dropbox_bash_path": "/users/yuantian/Dropbox",
+    "min_upload_seconds": 3,
+    "min_motion_frames": 8,
+    "camera_warmup_time": 2.5,
+    "delta_thresh": 5,
+    "resolution": [640, 480],
+    "fps": 16,
+    "min_area": 5000
+}
